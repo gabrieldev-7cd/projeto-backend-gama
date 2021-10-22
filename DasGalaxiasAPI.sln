@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DasGalaxiasAPI", "DasGalaxiasAPI\DasGalaxiasAPI.csproj", "{37F7F1E6-1780-4796-84A9-418FCBBB435B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F7F1E6-1780-4796-84A9-418FCBBB435B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F7F1E6-1780-4796-84A9-418FCBBB435B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F7F1E6-1780-4796-84A9-418FCBBB435B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F7F1E6-1780-4796-84A9-418FCBBB435B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44209E6B-25FD-44AD-A5A6-749FCB640838}
+	EndGlobalSection
+EndGlobal
